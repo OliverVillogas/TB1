@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo de la Universidad upc" />
   
-  <h1>Universidad: Universidad Peruana de Ciencias Aplicadas</h1>
+  <h1>Universidad: Universidad Peruana de Ciencias Aplicadas</h2>
   <p><strong>Carrera:</strong> Ingeniería de Software</p>
   <p><strong>Ciclo:</strong> 2025-20</p>
 
@@ -128,7 +128,7 @@ Para lograr esto, FitConnect ha desarrollado un marketplace especializado que ce
 | Foto                                                                      | Nombre completo                      | Código     | Carrera                | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------|--------------------------------------|------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Inserta tu foto al lado]()                                              | Alberto Alejandro Ponce Perales      | u202320684 | Ingeniería de Software | sadfasdfsadf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ![Inserta tu foto al lado]()                                              | Oliver Paul Villogas Medina                     |U202323562      | Ingeniería de Software | Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|![Foto de Oliver](assets/oliver-profile.jpeg)| Oliver Paul Villogas Medina                     |U202323562      | Ingeniería de Software | Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo.|
 | ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4) | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ![Inserta tu foto al lado]()                                              | Juan                                 | u20        | Ingenieria de Software | sadfasdfasdf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ![Foto de Gonzalo](assets/gonzalo-profile-picture.png)                                                      | Wilder Gonzalo Aliaga Urbina         | u202222001 | Ingeniería de Software | Como estudiante universitario de 20 años y cursando la carrera de Ingeniería de Software, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos. He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo. |
@@ -490,11 +490,10 @@ Startup con presencia en Colombia y México que se centra en la renta de equipos
 Para comprender a nuestros usuarios principales, hemos diseñado dos perfiles de User Persona que representan a nuestros segmentos clave: los dueños o entrenadores de gimnasios y los proveedores de equipos fitness. Estos perfiles nos ayudan a identificar sus motivaciones, frustraciones y necesidades, permitiéndonos desarrollar una plataforma que resuelva sus problemas reales y mejore significativamente su proceso de compra y venta de equipos.<br>
 
 **User Persona 1: Dueños o entrenadores de gimnasios**
-<br>Foto de David Torres
+<br><br> ![DavidTorres.png](assets/DavidTorres.png)
 
 **User Persona 2: Proveedores de equipos de fitness**
-<br>Foto de Kevin Castillo
-
+<br><br> ![KevinCastillo.png](assets/KevinCastillo.png)
 
 ### 2.3.2. User Task Matrix.
 mi parte
@@ -1076,8 +1075,8 @@ Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
-El siguiente diagrama entidad‑relación (ER) muestra las tablas principales con claves primarias (PK), claves foráneas (FK), atributos  y relaciones establecidas:
-<br> Insertar diagrama
+El siguiente diagrama entidad‑relación (ER) muestra las tablas principales con claves primarias (PK), claves foráneas (FK), atributos  y relaciones establecidas:<br><br>
+![DiagramaBaseDatosCoolGym.jpg](assets/DiagramaBaseDatosCoolGym.jpg)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1257,7 +1256,7 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 - Por último, está la sección donde podemos solicitar una demo.
   ![e7.png](assets/executionevidence/e7.png)
 
-- Para más detalles, visualizar el video: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZeUoBs)
+- Para más detalles, visualizar el video: [Video demostrativo de la landing page]()
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
@@ -1265,6 +1264,7 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 
 ## Conclusiones
 ## Bibliografía 
+
 
 
 
